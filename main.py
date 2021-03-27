@@ -1,0 +1,1 @@
+import lab_6_2
